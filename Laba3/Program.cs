@@ -7,7 +7,7 @@
             int min = 10000, max = 0;
             Random rnd = new Random();
             int[] array = new int[1000];
-
+            
         }
 
     }
